@@ -1,21 +1,3 @@
-print("Hello, World!")
-def count(n):
-    for i in range(n):
-        print(i)
-def gip(a,b):
-    return (a**2 + b**2)**0.5
-
-if __name__=="__main__":
-    def harf(s):
-        #global f
-        f="Rayxon"
-        print(f)
-        for i in s:
-            print(i)
-    gip(3,4)
-f="Bekhruzbek"
-print(int(gip(3,4)))
-print(f)
 def balance(balanc):
     print(f"Your balance is: {balanc}")
 
